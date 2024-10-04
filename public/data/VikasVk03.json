@@ -1,0 +1,13 @@
+{
+  "name": "Vikas Vishwakarma",
+  "location": "Mumbai",
+  "bio": "I am aspiring Full stack web developer, pursuing B E in IT at TCET, Mumbai. And looking forward to enhance my tech stack in MERN stack.",
+  "avatar": "https://github.com/VikasVk03.png",
+  "portfolio": "https://github.com/VikasVk03/Neon-theme-portfolio",
+  "skills": ["HTML", "CSS", "JAVASCRIPT", "GIT"],
+  "social": {
+    "GitHub": "https://github.com/VikasVk03",
+    "Twitter": "https://twitter.com/your-twitter-username",
+    "LinkedIn": "https://www.linkedin.com/in/vikas-vishwakarma-649462289/"
+  }
+}
